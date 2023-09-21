@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Anderson Martins 
 
 - 🔭 No momento trabalhando em projetos próprios envolvendo front e backend
+- 📘 Cursando Análise e desenvolvimento de sistemas
 - 🌱 Estudando React
 - 📫 Email: andersonmartinsn0@gmail.com
 
